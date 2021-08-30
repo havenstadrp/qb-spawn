@@ -2,45 +2,25 @@ QB = {}
 
 QB.Spawns = {
     ["legion"] = {
-        coords = {
-            x = 213.81, 
-            y = -808.92, 
-            z = 31.01, 
-            h = 31.01 
-        },
+        coords = vector4(195.17, -933.77, 29.7, 144.5),
         location = "legion",
         label = "Blokkenpark Parking",
     },
 
     ["policedp"] = {
-        coords = {
-            x = 413.08, 
-            y = -1011.0, 
-            z = 29.35, 
-            h = 81.29 
-        },
+        coords = vector4(428.23, -984.28, 29.76, 3.5),
         location = "policedp",
         label = "Hoofd Politie Kantoor",
     },
 
     ["paleto"] = {
-        coords = {
-            x = 1851.594,
-            y = 3670.896,
-            z = 33.787, 
-            h = 222.54
-        },
+        coords = vector4(80.35, 6424.12, 31.67, 45.5),
         location = "paleto",
         label = "Sandy Politie Kantoor",
     },
 
     ["motel"] = {
-        coords = {
-            x = -211.758,
-            y = 6308.203,
-            z = 31.423, 
-            h = 56.62 
-        }, 
+        coords = vector4(327.56, -205.08, 53.08, 163.5),
         location = "motel",
         label = "Polito Ziekenhuis",
     },
