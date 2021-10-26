@@ -13,15 +13,22 @@ QB.Spawns = {
         label = "Hoofd Politie Kantoor",
     },
 
-    ["paleto"] = {
-        coords = vector4(80.35, 6424.12, 31.67, 45.5),
-        location = "paleto",
-        label = "Sandy Politie Kantoor",
+    ["candy"] = {
+        coords = vector4(1841.502, 3669.049, 33.679, 211.9),
+        location = "candy",
+        label = "Sandy Ziekhuis",
     },
 
-    ["motel"] = {
-        coords = vector4(327.56, -205.08, 53.08, 163.5),
-        location = "motel",
-        label = "Polito Ziekenhuis",
+    -- ["motel"] = {
+    --     coords = vector4(327.56, -205.08, 53.08, 163.5),
+    --     location = "motel",
+    --     label = "Polito Ziekenhuis",
+    -- },
+
+    ["palito"] = {
+        coords = vector4(-332.426, 6157.832, 31.489, 137.4),
+        location = "palito",
+        label = "Palito Kerk",
     },
+
 }
